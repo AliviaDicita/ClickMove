@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ClickMovie</string>
+    <string name="app_title_movie">Menu Film</string>
+    <string name="app_title_tvshow">Menu Acara TV</string>
+    <!-- TODO: Hapus atau ubah teks placeholder ini -->
+    <string name="image_highlight">Sorotan Gambar</string>
+    <string name="lb_description">Deskripsi</string>
+    <string name="movie">Film</string>
+    <string name="tvshow">AcaraTV</string>
+    <string name="tab_title_movie">FILM</string>
+    <string name="tab_title_tvshow">ACARA TV</string>
+    <!-- TODO: Hapus atau ubah teks placeholder ini -->
+    <string name="favorite">Favorit</string>
+    <string name="empty_state_title_no_favorite_item">Belum ada favorit</string>
+    <string name="empty_state_desc_no_favorite_item_movie">Anda belum memiliki daftar film favorit</string>
+    <string name="empty_state_desc_no_favorite_item_tvshow">Anda belum memiliki daftar acara TV favorit</string>
+    <string name="app_title">KATALOG FILM</string>
+    <string name="default_desc">Tidak ada deskripsi cerita</string>
+    <string name="menu_az">A - Z</string>
+    <string name="menu_za">Z - A</string>
+    <string name="menu_random">Acak</string>
+    <string name="profile">Profil</string>
+    <!-- TODO: Hapus atau ubah teks placeholder ini -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="aboutme">About Me</string>
+    <string name="aboutmedesk">
+Hi, my name is Alivia Dicita, and I am a dedicated student currently pursuing my degree in Informatics Engineering at the Universitas Sains dan Teknologi Indonesia (USTI). With a passion for technology and a keen interest in software development, I am constantly exploring new ways to enhance my skills and knowledge in this ever-evolving field. My journey in Informatics Engineering has been both challenging and rewarding, and I am excited about the opportunities and experiences that lie ahead. Through my studies.
+    </string>
+    <string name="titel">Alivia Dicita</string>
+    <string name="univ">Universitas Sains dan Teknologi Indonesia</string>
+    <string name="email">Aliviadicita3@gmail.com</string>
+</resources>
